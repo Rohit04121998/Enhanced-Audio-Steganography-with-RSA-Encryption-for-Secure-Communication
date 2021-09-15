@@ -14,7 +14,7 @@ The proposed work aims to leverage the added benefits of steganography and en- c
 
 The proposed algorithm was developed using Python and a GUI was built using the *tkinter* library provided by Python. Encoder and decoder modules were built. RSA was implemented along with the generation of prime numbers and secret keys. Lastly, the hiding and extraction of the text message in the audio file was shown with no change in the size of the file.
 
-<p align="center"><img src="https://github.com/Rohit04121998/Enhanced-Audio-Steganography-with-RSA-Encryption-for-Secure-Communication/blob/main/Design%20Methodology.png" height="400"></p>
+<p align="center"><img src="https://github.com/Rohit04121998/Enhanced-Audio-Steganography-with-RSA-Encryption-for-Secure-Communication/blob/main/gallery/Design%20Methodology.png" height="400"></p>
 
 ## RSA Encryption
 
@@ -40,7 +40,7 @@ RSA has various advantages which include, but are not limited to:
 * Encoder  module  calculates  all  the  frame  bytes  of  the  audio  file  and  changes  the last bit of each byte to store the encrypted data.  On the receiver side the decoder module decodes the encrypted data from the audio.  It then calls the receiver module
 * The data is then decrypted by the receiver module using its private key
 
-<p align="center"><img src="https://github.com/Rohit04121998/Enhanced-Audio-Steganography-with-RSA-Encryption-for-Secure-Communication/blob/main/GUI.png" height="400"></p>
+<p align="center"><img src="https://github.com/Rohit04121998/Enhanced-Audio-Steganography-with-RSA-Encryption-for-Secure-Communication/blob/main/gallery/GUI.png" height="400"></p>
 
 ### <p align="center">GUI</p>
 
