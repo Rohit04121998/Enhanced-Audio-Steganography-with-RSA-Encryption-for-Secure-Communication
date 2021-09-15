@@ -34,7 +34,7 @@ RSA has various advantages which include, but are not limited to:
 
 ## Implementation
 
-* The audio file worked on has a .wav format. One of the reasons .wav audio format is used is it provides lossless compression format
+* The audio file worked on has a .wav format. One of the reasons .wav audio format is used is it provides lossless compression format (Note: Audio file not provided in repository)
 * LSB and RSA programs are integrated.  The sender prompts the receiver that it wants to send a message
 * The receiver makes two sets of keys (One private and One public) and shares the public key to the sender but keeps the private key to itself.  The sender encrypts the data with the key and puts it on the audio wav file
 * Encoder  module  calculates  all  the  frame  bytes  of  the  audio  file  and  changes  the last bit of each byte to store the encrypted data.  On the receiver side the decoder module decodes the encrypted data from the audio.  It then calls the receiver module
