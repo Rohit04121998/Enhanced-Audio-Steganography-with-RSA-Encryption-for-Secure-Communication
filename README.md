@@ -21,6 +21,7 @@ The proposed algorithm was developed using Python and a GUI was built using the 
 Rivest-Shamir-Adleman," or RSA, is another prominent encryption method. It is frequently used to encrypt data transferred over the internet and depends on a public key to do so.
 
 <p align="center"><img src="https://sectigostore.com/blog/wp-content/uploads/2020/06/how-rsa-works.png" height="400"></p>
+
 ### <p align="center">Working of RSA Encrpytion</p>
 
 The RSA algorithm is a type of asymmetric cryptography algorithm. Asymmetric indicates that it operates on two distinct keys, namely the Public Key and the Private Key. The Public Key is distributed to everyone, whereas the Secret Key is kept private, as the name implies. Those receiving the data will be given their own private key to decode the communications. It has been shown to be a secure method of sending information between persons who may not know each other yet wish to connect without exposing their personal or sensitive data.
@@ -40,6 +41,7 @@ RSA has various advantages which include, but are not limited to:
 * The data is then decrypted by the receiver module using its private key
 
 <p align="center"><img src="https://github.com/Rohit04121998/Enhanced-Audio-Steganography-with-RSA-Encryption-for-Secure-Communication/blob/main/GUI.png" height="400"></p>
+
 ### <p align="center">GUI</p>
 
 ## Future Scope
