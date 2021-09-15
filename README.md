@@ -15,3 +15,9 @@ The proposed work aims to leverage the added benefits of steganography and en- c
 The proposed algorithm was developed using Python and a GUI was built using the *tkinter* library provided by Python. Encoder and decoder modules were built. RSA was implemented along with the generation of prime numbers and secret keys. Lastly, the hiding and extraction of the text message in the audio file was shown with no change in the size of the file.
 
 <p align="center"><img src="https://github.com/Rohit04121998/Enhanced-Audio-Steganography-with-RSA-Encryption-for-Secure-Communication/blob/main/Design%20Methodology.png" height="400"></p>
+
+## RSA Encryption
+
+Rivest-Shamir-Adleman," or RSA, is another prominent encryption method. It is frequently used to encrypt data transferred over the internet and depends on a public key to do so.
+
+<p align="center"><img src="https://sectigostore.com/blog/wp-content/uploads/2020/06/how-rsa-works.png" height="400"></p>
