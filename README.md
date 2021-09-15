@@ -18,7 +18,7 @@ The proposed algorithm was developed using Python and a GUI was built using the 
 
 ## RSA Encryption
 
-Rivest-Shamir-Adleman," or RSA, is another prominent encryption method. It is frequently used to encrypt data transferred over the internet and depends on a public key to do so.
+Rivest-Shamir-Adleman, or RSA, is another prominent encryption method. It is frequently used to encrypt data transferred over the internet and depends on a public key to do so.
 
 <p align="center"><img src="https://sectigostore.com/blog/wp-content/uploads/2020/06/how-rsa-works.png" height="400"></p>
 
