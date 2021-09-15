@@ -1,0 +1,2 @@
+# Enhanced-Audio-Steganography-with-RSA-Encryption-for-Secure-Communication
+Audio steganography is an efficient method to secure embedded data and sent it through internet. Unfortunately, the integrity of the message may be compromised with only the use of LSB method to hide data.  Hence, To provide secure communication by integrating Steganography on Audio Files along with an Encryption Algorithm such as RSA is proposed.
