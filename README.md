@@ -13,3 +13,5 @@ in audio records. This technique conceals the information in WAV, AU and MP3 sou
 The proposed work aims to leverage the added benefits of steganography and en- cryption mechanisms to counter any drawbacks presented by these individual techniques. Implementation of data hiding using the LSB technique is presented in conjunction with the RSA encryption standard. A Graphical User Interface is also built to make the entire process user friendly and smooth.
 
 The proposed algorithm was developed using Python and a GUI was built using the *tkinter* library provided by Python. Encoder and decoder modules were built. RSA was implemented along with the generation of prime numbers and secret keys. Lastly, the hiding and extraction of the text message in the audio file was shown with no change in the size of the file.
+
+<p align="center"><img src="https://github.com/Rohit04121998/Enhanced-Audio-Steganography-with-RSA-Encryption-for-Secure-Communication/blob/main/Design%20Methodology.png" height="400"></p>
